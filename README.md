@@ -1,12 +1,13 @@
-# Fylo Landing
-Implementation of an landing site using properties such as grid, flexbox or clip-path.
+# Fylo landing page
+
+Challenge from [www.frontendmentor.io](https://www.frontendmentor.io/challenges) 
+CSS styles including the use of grid, flexbox + clip-path
 
 ## Built With
 
 -   HTML5
 -   CSS3
 -   JavaScript
--   jQuery
 
 ## Author
 
